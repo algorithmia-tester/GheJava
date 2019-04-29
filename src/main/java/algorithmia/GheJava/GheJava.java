@@ -8,6 +8,6 @@ import java.util.*;
 
 public class GheJava {
     public String apply(String s) throws Exception {
-        return "Hello " + s;
+        return "Hello " + s + " I'm modified!";
     }
 }
